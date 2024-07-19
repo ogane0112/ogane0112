@@ -20,9 +20,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ogane0112&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-# NOW TRAINING
-
 <p align="left">
 
 
