@@ -14,11 +14,6 @@
 ### Just 21 years old 
 ### Feel free to contact me anytime!👍
 
-![Ogane0112's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogane0112&show_icons=true&theme=vue-dark)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ogane0112&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p align="left">
 
